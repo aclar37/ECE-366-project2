@@ -1,13 +1,14 @@
 # ECE-366-project2
 
 Team members 
-Name             netid
--Antonio Clara  aclar37
--
--
--
+Name              netid
+-Antonio Clara    aclar37
+-Nestor Soto      nsoto
+-Julises Mercado  jmerc35
+-Gael Perez       gpere92
+
 Contributions
-Antonio- Made the skeleton of the MIPS code and create the repository 
+Antonio- Made the skeleton of the MIPS code and create the repository
 
 GitHub repository 
 
