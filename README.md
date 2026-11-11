@@ -9,6 +9,7 @@ Name              netid
 
 Contributions
 Antonio- Made the skeleton of the MIPS code and create the repository
+Gael- Started designing the MIPS program that will implement IsOdd(m)
 
 GitHub repository 
 
