@@ -2,13 +2,19 @@
 
 Team members 
 Name              netid
+
 -Antonio Clara    aclar37
+
 -Nestor Soto      nsoto
+
 -Julises Mercado  jmerc35
+
 -Gael Perez       gpere92
 
 Contributions
+
 Antonio- Made the skeleton of the MIPS code and create the repository
+
 Gael- Started designing the MIPS program that will implement IsOdd(m)
 
 GitHub repository 
