@@ -27,7 +27,7 @@ How to Run Fibonacci(n)
 3.Press F3 to assemble the program.
 4.Press F5 to run it.
 5.View the result in the Data Segment at the memory location labeled result.
-Example: When m = 7, the result is 13.
+Example: When n = 7, the result is 13.
 
 How to Run IsOdd(m)
 1.Open is_odd.asm using the MARS simulator.
@@ -35,4 +35,4 @@ How to Run IsOdd(m)
 3.Press F3 to assemble the program.
 4.Press F5 to run it.
 5.View the result in the Data Segment at the memory location labeled result (1 if odd, 0 if even).
-Example: When n = 7, the result is 1.
+Example: When m = 7, the result is 1.
