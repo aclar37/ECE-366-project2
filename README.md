@@ -19,7 +19,7 @@ Gael- Implemented and tested the IsOdd(m) code using division by repeated subtra
 
 Nestor - Designed and implemented IsFibonnaciOdd(n) using existing fibonacci and is_odd programs
 
-Julises - Verified edge cases in MARS, added code comments, and compiled final submission
+Julises - Verified edge cases in MARS, added code comments, and final submission
 
 GitHub repository 
 
