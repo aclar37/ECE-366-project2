@@ -19,6 +19,8 @@ Gael- Implemented and tested the IsOdd(m) code using division by repeated subtra
 
 Nestor - Designed and implemented IsFibonnaciOdd(n) using existing fibonacci and is_odd programs
 
+Julises - Verified edge cases in MARS, added code comments, and compiled final submission
+
 GitHub repository 
 
 https://github.com/aclar37/ECE-366-project2.git
@@ -47,3 +49,14 @@ How to Run IsFibonacciOdd(n)
 5.View the result in the Data Segment at the memory location labeled result (1 if odd, 0 if even).
 Example: When n = 7, the result is 1.
 
+Verification/Testing:
+
+| Input (n) | Fib (F_n) | Expected Result | Actual Result|
+|:---:|:---:|:---:|:---:|
+| 0 | 0 | 0 | 0 |
+| 1 | 1 | 1 | 1 |
+| 2 | 1 | 1 | 1 |
+| 3 | 2 | 0 | 0 |
+| 7 | 13 | 1 | 1 |
+| 10 | 55 | 1 | 1 |
+| 12 | 144 | 0 | 0 |
