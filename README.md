@@ -17,6 +17,8 @@ Antonio- Made the skeleton of the MIPS code and create the repository
 
 Gael- Implemented and tested the IsOdd(m) code using division by repeated subtraction
 
+Nestor - Designed and implemented IsFibonnaciOdd(n) using existing fibonacci and is_odd programs
+
 GitHub repository 
 
 https://github.com/aclar37/ECE-366-project2.git
@@ -36,3 +38,12 @@ How to Run IsOdd(m)
 4.Press F5 to run it.
 5.View the result in the Data Segment at the memory location labeled result (1 if odd, 0 if even).
 Example: When m = 7, the result is 1.
+
+How to Run IsFibonacciOdd(n)
+1.Open IsFibonacciOdd.asm using the MARS simulator.
+2.Change the value of n in the .data section to the desired nonnegative integer.
+3.Press F3 to assemble the program.
+4.Press F5 to run it.
+5.View the result in the Data Segment at the memory location labeled result (1 if odd, 0 if even).
+Example: When n = 7, the result is 1.
+
